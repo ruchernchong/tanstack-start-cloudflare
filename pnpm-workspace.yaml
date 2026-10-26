@@ -4,6 +4,6 @@ allowBuilds:
   sharp: true
   workerd: true
   better-sqlite3: true
-  '@google/genai': set this to true or false
-  core-js: set this to true or false
-  protobufjs: set this to true or false
+  '@google/genai': false
+  core-js: false
+  protobufjs: false
